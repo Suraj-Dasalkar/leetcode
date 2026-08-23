@@ -15,6 +15,7 @@
 | [0283-move-zeroes](https://github.com/Suraj-Dasalkar/leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Suraj-Dasalkar/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Suraj-Dasalkar/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0977-squares-of-a-sorted-array](https://github.com/Suraj-Dasalkar/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [2460-apply-operations-to-an-array](https://github.com/Suraj-Dasalkar/leetcode/tree/master/2460-apply-operations-to-an-array) |
 ## Hash Table
 |  |
@@ -35,6 +36,7 @@
 | [0283-move-zeroes](https://github.com/Suraj-Dasalkar/leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Suraj-Dasalkar/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Suraj-Dasalkar/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0977-squares-of-a-sorted-array](https://github.com/Suraj-Dasalkar/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [2460-apply-operations-to-an-array](https://github.com/Suraj-Dasalkar/leetcode/tree/master/2460-apply-operations-to-an-array) |
 ## Simulation
 |  |
@@ -51,6 +53,7 @@
 | [0088-merge-sorted-array](https://github.com/Suraj-Dasalkar/leetcode/tree/master/0088-merge-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/Suraj-Dasalkar/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Suraj-Dasalkar/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0977-squares-of-a-sorted-array](https://github.com/Suraj-Dasalkar/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Dynamic Programming
 |  |
 | ------- |

@@ -43,6 +43,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/Suraj-Dasalkar/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Suraj-Dasalkar/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Suraj-Dasalkar/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0392-is-subsequence](https://github.com/Suraj-Dasalkar/leetcode/tree/master/0392-is-subsequence) |
 | [0977-squares-of-a-sorted-array](https://github.com/Suraj-Dasalkar/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [2460-apply-operations-to-an-array](https://github.com/Suraj-Dasalkar/leetcode/tree/master/2460-apply-operations-to-an-array) |
 ## Simulation
@@ -67,6 +68,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Suraj-Dasalkar/leetcode/tree/master/0042-trapping-rain-water) |
+| [0392-is-subsequence](https://github.com/Suraj-Dasalkar/leetcode/tree/master/0392-is-subsequence) |
 ## Stack
 |  |
 | ------- |
@@ -95,4 +97,5 @@
 | [0125-valid-palindrome](https://github.com/Suraj-Dasalkar/leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Suraj-Dasalkar/leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Suraj-Dasalkar/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/Suraj-Dasalkar/leetcode/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->

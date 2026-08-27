@@ -98,4 +98,8 @@
 | [0344-reverse-string](https://github.com/Suraj-Dasalkar/leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Suraj-Dasalkar/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Suraj-Dasalkar/leetcode/tree/master/0392-is-subsequence) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/Suraj-Dasalkar/leetcode/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->

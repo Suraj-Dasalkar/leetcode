@@ -72,6 +72,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Suraj-Dasalkar/leetcode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Suraj-Dasalkar/leetcode/tree/master/0042-trapping-rain-water) |
 ## Monotonic Stack
 |  |
@@ -94,6 +95,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Suraj-Dasalkar/leetcode/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Suraj-Dasalkar/leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Suraj-Dasalkar/leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Suraj-Dasalkar/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -103,4 +105,8 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/Suraj-Dasalkar/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Suraj-Dasalkar/leetcode/tree/master/0009-palindrome-number) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Suraj-Dasalkar/leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->

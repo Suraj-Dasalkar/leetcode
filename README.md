@@ -19,6 +19,7 @@
 | [0283-move-zeroes](https://github.com/Suraj-Dasalkar/leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Suraj-Dasalkar/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Suraj-Dasalkar/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0643-maximum-average-subarray-i](https://github.com/Suraj-Dasalkar/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0977-squares-of-a-sorted-array](https://github.com/Suraj-Dasalkar/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [2460-apply-operations-to-an-array](https://github.com/Suraj-Dasalkar/leetcode/tree/master/2460-apply-operations-to-an-array) |
 ## Hash Table
@@ -114,4 +115,8 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Suraj-Dasalkar/leetcode/tree/master/0020-valid-parentheses) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/Suraj-Dasalkar/leetcode/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->

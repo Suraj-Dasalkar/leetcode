@@ -16,6 +16,7 @@
 | [0088-merge-sorted-array](https://github.com/Suraj-Dasalkar/leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Suraj-Dasalkar/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Suraj-Dasalkar/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/Suraj-Dasalkar/leetcode/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Suraj-Dasalkar/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/Suraj-Dasalkar/leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Suraj-Dasalkar/leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -27,6 +28,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Suraj-Dasalkar/leetcode/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/Suraj-Dasalkar/leetcode/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/Suraj-Dasalkar/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Suraj-Dasalkar/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Two Pointers
@@ -67,6 +69,7 @@
 | [0018-4sum](https://github.com/Suraj-Dasalkar/leetcode/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/Suraj-Dasalkar/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Suraj-Dasalkar/leetcode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Suraj-Dasalkar/leetcode/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/Suraj-Dasalkar/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Suraj-Dasalkar/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Suraj-Dasalkar/leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -132,4 +135,16 @@
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Suraj-Dasalkar/leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Suraj-Dasalkar/leetcode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Suraj-Dasalkar/leetcode/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Suraj-Dasalkar/leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->

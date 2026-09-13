@@ -117,6 +117,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Suraj-Dasalkar/leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Suraj-Dasalkar/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Suraj-Dasalkar/leetcode/tree/master/0009-palindrome-number) |
 ## Bracket Sequences
@@ -136,6 +137,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Suraj-Dasalkar/leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Suraj-Dasalkar/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Suraj-Dasalkar/leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 ## Divide and Conquer
@@ -153,5 +155,6 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Suraj-Dasalkar/leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Suraj-Dasalkar/leetcode/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->

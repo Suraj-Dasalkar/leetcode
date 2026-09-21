@@ -29,6 +29,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Suraj-Dasalkar/leetcode/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/Suraj-Dasalkar/leetcode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/Suraj-Dasalkar/leetcode/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/Suraj-Dasalkar/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Suraj-Dasalkar/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -108,6 +109,7 @@
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Suraj-Dasalkar/leetcode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Suraj-Dasalkar/leetcode/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Suraj-Dasalkar/leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Suraj-Dasalkar/leetcode/tree/master/0344-reverse-string) |
@@ -120,6 +122,7 @@
 | [0002-add-two-numbers](https://github.com/Suraj-Dasalkar/leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Suraj-Dasalkar/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Suraj-Dasalkar/leetcode/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/Suraj-Dasalkar/leetcode/tree/master/0013-roman-to-integer) |
 ## Bracket Sequences
 |  |
 | ------- |
